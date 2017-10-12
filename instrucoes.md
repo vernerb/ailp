@@ -28,7 +28,7 @@ Instalando o Chatterbot
 
 Para instalar o Chatterbot, com o ambiente virtual ativo, daremos o seguinte comando:
 
-$ pip install Chatterbot
+(penny) userb@computer:~/projects/python3/ailp/penny/bin$ pip install Chatterbot
 
 Após concluída a instalação, iremos digitar um programa para testarmos um simples chatbot:
 
