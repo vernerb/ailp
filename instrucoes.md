@@ -1,3 +1,9 @@
+Instruções para usar o git e github, leiam:
+
+http://rogerdudler.github.io/git-guide/
+
+Depois, clonem o projeto em seus computadores e sigam as instruções abaixo (presume-se que estão usando Ubuntu ou outra distro Linux).
+
 Instalando o atom - editor de textos do Github poderoso
 
 sudo add-apt-repository ppa:webupd8team/atom -y && sudo apt-get update && sudo apt-get install atom -y
